@@ -33,3 +33,21 @@ Math-Code-Logic                       Appworld-SWE-bench-OSworld
                                             |
                                       -----Reward-----
                                             (Sparse, Delayed)
+
+
+
+Training Frameworks: async or go home 
+Decoupled Generation + Training 
+
+Open-source stacks 
+1. AReal
+2. VeRL
+3. prime-rl
+4. TRL
+5. Slime
+6. TorchForge
+
+Evaluation: Main Challenges
+Saturation 
+Overfitting 
+Benchmark Gaming 
